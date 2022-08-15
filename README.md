@@ -1,5 +1,5 @@
 # Create React App
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/441baced-6e5f-4e93-9b1f-96f6085665d4/deploy-status)](https://app.netlify.com/sites/random-person-app-1/deploys)
 This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
 
 ## Deploy Your Own
